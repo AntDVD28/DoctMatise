@@ -20,7 +20,7 @@ Los pasos a realizar para poner en práctica el proyecto son:
 
 3. Creación de un nuevo proyecto en Netbeans con una clase principal. Agregaremos el controlador mattise.jar en las Bibliotecas de nuestro proyecto.
 
-4. Creación de las clases Java: Departamento, Profesor y Tesis desde el SGBD Matisse. Asegurarnos que todas las clases pertenecen al mismo paquete.
+4. Importar las clases Java: Departamento, Profesor y Tesis desde el SGBD Matisse a nuestro proyecto Netbeans, esto podemos realizarlo desde la opción "Generar código" del esquema en Matisse. Una vez importadas las clases revisaremos desde Netbeans que todas pertenecen al mismo paquete que nuestra clase principal.
 
 5. Desarrollar el código necesario en nuestra clase principal del proyecto para conectarnos a Matisse y efectuar la inserción de diferentes registros.
 
